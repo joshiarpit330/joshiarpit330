@@ -2,7 +2,7 @@
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on innovative ideas.
-- 📫 How to reach me through my emial ( joshiarpit330@gmail.com)
+- 📫 How to reach me through my email ( joshiarpit330@gmail.com)
 
 <!---
 joshiarpit330/joshiarpit330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
